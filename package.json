@@ -14,7 +14,7 @@
     "vinyl-source-stream": "^0.1.1",
     "gulp-uglify": "^0.2.1",
     "gulp-streamify": "0.0.5",
-    "browserify": "^3.38.1",
+    "browserify": "^3.39.0",
     "filesize": "^2.0.3",
     "st": "^0.4.1"
   }
